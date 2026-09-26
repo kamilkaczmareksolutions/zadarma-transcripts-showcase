@@ -1,3 +1,5 @@
+<p align="center"><b>Polski</b> | <a href="README.en.md">English</a></p>
+
 <p align="center"><img src="assets/hero.png" alt="Transkrypcje Zadarma" width="700"/></p>
 
 <h1 align="center">Transkrypcje Zadarma</h1>
