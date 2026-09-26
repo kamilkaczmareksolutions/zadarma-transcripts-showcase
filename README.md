@@ -1,6 +1,10 @@
 <p align="center"><b>Polski</b> | <a href="README.en.md">English</a></p>
 
+https://github.com/user-attachments/assets/451cb0cb-8667-4b49-a0ce-77892bd55883
+
+<!-- Poprzednie hero (backup, statyczne):
 <p align="center"><img src="assets/hero.png" alt="Transkrypcje Zadarma" width="700"/></p>
+-->
 
 <h1 align="center">Transkrypcje Zadarma</h1>
 
